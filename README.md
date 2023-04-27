@@ -1,4 +1,4 @@
-# Employee Management System
+# People Management System
 
 ## Table of Contents
 

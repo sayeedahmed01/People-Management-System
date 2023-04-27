@@ -12,7 +12,7 @@
 
 ## Introduction
 
-The Employee Management System is an application designed to maintain records of the employees in a company. Some of its features include:
+The People Management System is an application designed to maintain records of the employees in a company. Some of its features include:
 
 - A Login interface that enables access using username and password.
 - A new user registration interface.
